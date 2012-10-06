@@ -42,9 +42,9 @@ Guardando...\xfffeNo apagues la consola.
 Emparej. Aleatorio\xfffeModo Puntos Clasificatorios\xf000븁\x0000
 Esperando respuesta del servidor...\xfffePor favor, espera.
 Esperando comunicación...\xfffePor favor, espera.
-ブラック．
-ホワイト．
-ポケモンバトル　Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
+Negro．
+Blanco．
+Batalla Pokemon　Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
 PARTICIPAR
 INSTRUCCIONES
 SALIR
